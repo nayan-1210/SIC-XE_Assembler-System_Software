@@ -1,0 +1,6 @@
+SYMTAB
+---------------------
+FIRST R 0 1
+ZERO R 3 2
+---------------------
+Program length: 17
